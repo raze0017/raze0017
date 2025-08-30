@@ -37,4 +37,4 @@ Hi there! I'm Abdul Rahman Razeem, a final-year Computer Science student from Th
 
 ---
 🚀 Let's build something amazing together!
-
+![Profile views](https://komarev.com/ghpvc/?username=raze0017&color=red)
